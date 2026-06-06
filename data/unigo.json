@@ -1,0 +1,37 @@
+{
+  "comidas": [
+    {"nombre":"Café del Campus","descripcion":"Desayunos y snacks a precios estudiantiles.","oferta":"Menú desde S/ 8.00","categoria":"Cafetería","direccion":"Av. Universitaria 120","horario":"7:00 a.m. - 9:00 p.m.","referencia":"Frente a la biblioteca central","telefono":"999 111 222","latitud":-13.1631,"longitud":-74.2236},
+    {"nombre":"Pizzería Studenti","descripcion":"Pizzas personales y promociones para estudiantes.","oferta":"2x1 con credencial universitaria","categoria":"Pizza","direccion":"Jr. Los Estudiantes 245","horario":"12:00 p.m. - 11:00 p.m.","referencia":"A dos cuadras del campus","telefono":"999 222 333","latitud":-13.1642,"longitud":-74.2248},
+    {"nombre":"Tacos El Rápido","descripcion":"Tacos, burritos y combos rápidos para almorzar.","oferta":"Combos desde S/ 10.00","categoria":"Comida rápida","direccion":"Av. Cultura 310","horario":"11:00 a.m. - 10:00 p.m.","referencia":"Al costado de una farmacia","telefono":"999 333 444","latitud":-13.1625,"longitud":-74.2254},
+    {"nombre":"Burger Student","descripcion":"Hamburguesas, papas fritas y gaseosas con descuento.","oferta":"20% OFF para universitarios","categoria":"Hamburguesas","direccion":"Jr. Las Palmeras 155","horario":"1:00 p.m. - 11:30 p.m.","referencia":"Cerca del paradero universitario","telefono":"999 444 555","latitud":-13.1618,"longitud":-74.2229},
+    {"nombre":"Sushi Express","descripcion":"Rolls, makis y comida japonesa económica.","oferta":"Rolls 2x1","categoria":"Sushi","direccion":"Av. Japón 402","horario":"4:00 p.m. - 11:00 p.m.","referencia":"Frente a una tienda de postres","telefono":"999 555 666","latitud":-13.165,"longitud":-74.2262},
+    {"nombre":"Menú La Tía Rosa","descripcion":"Menú casero con sopa, segundo y refresco.","oferta":"Menú completo desde S/ 9.00","categoria":"Menú casero","direccion":"Jr. Progreso 178","horario":"11:30 a.m. - 4:00 p.m.","referencia":"Casa amarilla con letrero rojo","telefono":"999 666 777","latitud":-13.1609,"longitud":-74.2241}
+  ],
+  "eventos": [
+    {"titulo":"Torneo de Fútbol Interfacultades","descripcion":"Competencia amistosa entre facultades. Inscripciones abiertas.","fecha":"Viernes, 27 de marzo","tipo":"Deportivo","imagen":"images/futbol.jpg"},
+    {"titulo":"Fiesta de Bienvenida","descripcion":"Conoce nuevos estudiantes y disfruta una noche increíble.","fecha":"Viernes, 20 de marzo","tipo":"Social","imagen":"images/bienvenida.jpg"},
+    {"titulo":"Charla de Productividad Académica","descripcion":"Aprende técnicas para organizar mejor tus estudios.","fecha":"Lunes, 30 de marzo","tipo":"Académico","imagen":"images/charla.jpg"}
+  ],
+  "lugares": [
+    {"nombre":"Biblioteca Central","horario":"7:00 - 23:00","costo":"Gratis","servicios":["Wifi gratis","Salas de grupo","Computadoras","Espacio de comida"]},
+    {"nombre":"Centro de Coworking","horario":"8:00 - 20:00","costo":"Gratis","servicios":["Wifi premium","Pizarras","Café gratis","Zona de lectura"]},
+    {"nombre":"Centro de Salud","horario":"8:00 - 18:00","costo":"Gratis","servicios":["Atención básica","Primeros auxilios","Orientación médica"]}
+  ],
+  "tips": {
+    "productividad": [
+      {"titulo":"Técnica Pomodoro","subtitulo":"Trabaja en intervalos de 25 minutos.","puntos":["Enfócate 25 minutos sin distracciones.","Descansa 5 minutos después de cada sesión.","Usa un temporizador para mantener disciplina."]},
+      {"titulo":"Método SMART","subtitulo":"Establece metas claras y alcanzables.","puntos":["Define exactamente qué quieres lograr.","Mide tu avance con fechas o porcentajes.","Alinea tus metas con tus objetivos académicos."]},
+      {"titulo":"Elimina distracciones","subtitulo":"Crea un ambiente productivo.","puntos":["Silencia notificaciones.","Usa apps para bloquear redes sociales.","Estudia en un lugar tranquilo."]}
+    ],
+    "memorizacion": [
+      {"titulo":"Repetición Espaciada","subtitulo":"Repasa en intervalos crecientes.","puntos":["Repasa el mismo día que aprendes.","Haz una segunda revisión al día siguiente.","Realiza una última revisión al mes."]},
+      {"titulo":"Mapas Mentales","subtitulo":"Organiza información visualmente.","puntos":["Coloca el tema principal en el centro.","Añade ramas con subtemas.","Usa colores, símbolos y dibujos."]},
+      {"titulo":"Enseñar a otros","subtitulo":"La mejor forma de aprender es explicar.","puntos":["Explica conceptos a compañeros.","Crea resúmenes sencillos.","Si puedes explicarlo, lo entiendes."]}
+    ],
+    "bienestar": [
+      {"titulo":"Duerme bien","subtitulo":"El descanso mejora el aprendizaje.","puntos":["Duerme entre 7 y 8 horas.","Evita pantallas antes de dormir.","Mantén un horario regular."]},
+      {"titulo":"Alimentación saludable","subtitulo":"Tu cerebro necesita energía de calidad.","puntos":["Desayuna antes de estudiar.","Come snacks saludables.","Evita el exceso de cafeína."]},
+      {"titulo":"Ejercicio regular","subtitulo":"El movimiento mejora la concentración.","puntos":["Haz pausas activas cada hora.","Camina para reducir el estrés.","Practica deporte varias veces por semana."]}
+    ]
+  }
+}
